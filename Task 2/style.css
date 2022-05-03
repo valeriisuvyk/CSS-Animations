@@ -15,7 +15,7 @@ body{
     align-items: center ;
 }
 .arrow{
-    width: 290  px;
+    width: 291  px;
     position: absolute;
     border: 2px solid purple;
     animation: example 60s infinite linear;
